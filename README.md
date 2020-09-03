@@ -8,15 +8,15 @@ online-news-team-7 created by GitHub Classroom
 
 
 
-#Project Title
+## Project Title
 
-##Online News
+### Online News
 
 
 
-#Framework Used:-
+## Framework Used:-
 
-##Angluar 10.0 And NodeJs
+### Angluar 10.0 And NodeJs
 
 
 
