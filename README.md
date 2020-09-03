@@ -1,4 +1,4 @@
-# online-news-team-7
+online-news-team-7
 online-news-team-7 created by GitHub Classroom
 
 #Student Name:- 
@@ -8,17 +8,19 @@ online-news-team-7 created by GitHub Classroom
 
 
 
-## Project Title
+### Project Title
 
-### Online News
-
-
-
-## Framework Used:-
-
-### Angluar 10.0 And NodeJs
+##### Online News
 
 
+
+### Framework Used:-
+
+##### Angluar 10.0 And NodeJs
+
+   - Angular CLI: 10.0.8
+   - Node: 12.18.3
+   - OS: win32 x64
 
 
 
